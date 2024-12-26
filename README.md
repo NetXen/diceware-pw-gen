@@ -1,4 +1,4 @@
-# diceware-pw-gen
+# diceware-pw-gen.sh
 
 ## Description:  
 Generates passwords using the Diceware method and outputs results to CSV.  
